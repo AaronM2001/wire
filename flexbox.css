@@ -16,6 +16,9 @@
 .flextwo{
     flex-grow: 2;
 }
+.flexthree{
+    flex-grow: 2;
+}
 .containertwo{
     display: flex;
     flex-direction: row-reverse;
@@ -38,3 +41,24 @@
     flex-shrink: 1;
 
 }
+.flexsix{
+    flex-grow: 2;
+    flex-shrink: 1;
+    border: solid red;
+}
+.flexseven{
+    flex-grow: 2;
+    flex-shrink: 1;
+    border: solid red;
+}
+.flexeight{
+    flex-grow: 2;
+    flex-shrink: 1;
+    border: solid red;
+}
+.flexnine{
+    flex-grow: 2;
+    flex-shrink: 1;
+    border: solid red;
+}
+
