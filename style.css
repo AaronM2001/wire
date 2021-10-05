@@ -1,5 +1,5 @@
 body{
-    color: blue;
+    background-color: rgb(22, 223, 89);
 }
 h2{
     color: blue;
@@ -56,8 +56,4 @@ h2{
     border: seagreen 15px;
     height:250px;
     width:420px;
-}
-h2{
-    font-size: 150px;
-    text-align: center;
 }
